@@ -75,7 +75,7 @@
     }
   ],
   "engines": {
-    "node": ">= 18"
+    "node": ">= 16"
   },
   "devDependencies": {
     "@vitest/coverage-v8": "^0.34.3",
